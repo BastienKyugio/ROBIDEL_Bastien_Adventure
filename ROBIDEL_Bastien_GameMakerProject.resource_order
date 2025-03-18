@@ -17,6 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"O_IronOre","order":1,"path":"objects/O_IronOre/O_IronOre.yy",},
+    {"name":"S_IronOre","order":1,"path":"sprites/S_IronOre/S_IronOre.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }
