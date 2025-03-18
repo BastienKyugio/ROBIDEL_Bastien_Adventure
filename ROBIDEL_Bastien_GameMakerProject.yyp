@@ -34,7 +34,10 @@
   },
   "name":"ROBIDEL_Bastien_GameMakerProject",
   "resources":[
+    {"id":{"name":"O_MainCharacter","path":"objects/O_MainCharacter/O_MainCharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"S_MainCharacter","path":"sprites/S_MainCharacter/S_MainCharacter.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
