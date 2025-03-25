@@ -18,7 +18,13 @@
   ],
   "ResourceOrderSettings":[
     {"name":"O_IronOre","order":1,"path":"objects/O_IronOre/O_IronOre.yy",},
+    {"name":"R_Cave","order":2,"path":"rooms/R_Cave/R_Cave.yy",},
+    {"name":"R_House","order":1,"path":"rooms/R_House/R_House.yy",},
+    {"name":"R_MainMenu","order":3,"path":"rooms/R_MainMenu/R_MainMenu.yy",},
+    {"name":"Scr_LaunchCaveRoom","order":2,"path":"scripts/Scr_LaunchCaveRoom/Scr_LaunchCaveRoom.yy",},
+    {"name":"Scr_LaunchHouseRoom","order":1,"path":"scripts/Scr_LaunchHouseRoom/Scr_LaunchHouseRoom.yy",},
     {"name":"S_IronOre","order":1,"path":"sprites/S_IronOre/S_IronOre.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"S_Merchant","order":2,"path":"sprites/S_Merchant/S_Merchant.yy",},
+    {"name":"S_SpriteSheet","order":3,"path":"sprites/S_SpriteSheet/S_SpriteSheet.yy",},
   ],
 }
