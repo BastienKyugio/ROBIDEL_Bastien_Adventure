@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"O_IronOre","order":1,"path":"objects/O_IronOre/O_IronOre.yy",},
+    {"name":"O_Wall","order":2,"path":"objects/O_Wall/O_Wall.yy",},
     {"name":"R_Cave","order":2,"path":"rooms/R_Cave/R_Cave.yy",},
     {"name":"R_House","order":1,"path":"rooms/R_House/R_House.yy",},
     {"name":"R_MainMenu","order":3,"path":"rooms/R_MainMenu/R_MainMenu.yy",},
@@ -25,6 +26,11 @@
     {"name":"Scr_LaunchHouseRoom","order":1,"path":"scripts/Scr_LaunchHouseRoom/Scr_LaunchHouseRoom.yy",},
     {"name":"S_IronOre","order":1,"path":"sprites/S_IronOre/S_IronOre.yy",},
     {"name":"S_Merchant","order":2,"path":"sprites/S_Merchant/S_Merchant.yy",},
+    {"name":"S_PlayerIdle","order":4,"path":"sprites/S_PlayerIdle/S_PlayerIdle.yy",},
+    {"name":"S_PlayerRunBehind","order":5,"path":"sprites/S_PlayerRunBehind/S_PlayerRunBehind.yy",},
+    {"name":"S_PlayerRunFront","order":6,"path":"sprites/S_PlayerRunFront/S_PlayerRunFront.yy",},
+    {"name":"S_PlayerRunLeft","order":7,"path":"sprites/S_PlayerRunLeft/S_PlayerRunLeft.yy",},
+    {"name":"S_PlayerRunRight","order":8,"path":"sprites/S_PlayerRunRight/S_PlayerRunRight.yy",},
     {"name":"S_SpriteSheet","order":3,"path":"sprites/S_SpriteSheet/S_SpriteSheet.yy",},
   ],
 }
