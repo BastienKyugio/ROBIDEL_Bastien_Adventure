@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_IronOre",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_IronOre",
   "overriddenProperties":[],

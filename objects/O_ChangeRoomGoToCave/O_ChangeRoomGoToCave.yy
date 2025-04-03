@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_Sign",
+  "%Name":"O_ChangeRoomGoToCave",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":54,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Sign",
+  "name":"O_ChangeRoomGoToCave",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite10",
+    "path":"sprites/Sprite10/Sprite10.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,1 +1,1 @@
-global.shells = 0;
+global.gold = 0;

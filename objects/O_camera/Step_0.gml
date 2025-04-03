@@ -3,13 +3,13 @@ if (instance_exists(follow))
 	xTo = follow.x;
 	yTo = follow.y;
 	
-	if ((follow).object_index == O_PlayerDeath)
-	{
-		x = xTo;
-		y = yTo;
+	//if ((follow).object_index == O_PlayerDeath)
+	//{
+		//x = xTo;
+		//y = yTo;
 		
 		
-	}
+	//}
 }
 
 x += (xTo - x) /25;
@@ -23,21 +23,3 @@ y += random_range(-shake_remain, shake_remain);
 shake_remain = max(0, shake_remain-((1/shake_length)*shake_magnitude));
 
 camera_set_view_pos(cam, x-view_w_half, y-view_h_half);
-
-if (layer_exists("Background_Petit_Poisson"))
-{
-	layer_x("Background_Petit_Poisson", x/3);
-}
-if (layer_exists("Background_Gros_Poisson"))
-{
-	layer_x("Background_Gros_Poisson", x/2);
-}
-
-if (layer_exists("Background_Petit_Poisson"))
-{
-	layer_y("Background_Petit_Poisson", y/3);
-}
-if (layer_exists("Background_Gros_Poisson"))
-{
-	layer_y("Background_Gros_Poisson", y/2);
-}

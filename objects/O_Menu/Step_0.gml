@@ -17,6 +17,14 @@ menu_x += (menu_x_target - menu_x) / menu_speed;
 	 
 	 if (keyboard_check_pressed(vk_enter))
 	 {
+		 if (menu_cursor == menu[2])
+		{
+			menu_x_target = gui_width+200;
+			menu_committed = menu_cursor;
+			ScreenShake(4,30);
+			menu_control = false;
+			room_goto(R_MainMenu);
+		}
 		 menu_x_target = gui_width+200;
 		 menu_committed = menu_cursor;
 		 ScreenShake(4,30);

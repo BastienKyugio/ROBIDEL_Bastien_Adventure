@@ -6,7 +6,7 @@ if (point_in_circle(O_Player.x, O_Player.y, x, y, 64)) && (!instance_exists(O_Te
 		length = string_length(text);
 	}
 	
-	with (O_camera)
+	with (O_Camera)
 	{
 		follow = other.id;
 	}
