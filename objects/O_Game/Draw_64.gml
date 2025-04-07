@@ -1,4 +1,4 @@
-if (room != R_Menu) && (instance_exists(O_Player)) && (global.gold >0)
+if (room != R_MainMenu) && (instance_exists(O_Player)) && (global.gold >= 0)
 {
 	goldTextScale = max(goldTextScale * 0.95, 3);
 	draw_set_color(c_black);

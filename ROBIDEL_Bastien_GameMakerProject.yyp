@@ -34,7 +34,7 @@
   },
   "name":"ROBIDEL_Bastien_GameMakerProject",
   "resources":[
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"F_Menu","path":"fonts/F_Menu/F_Menu.yy",},},
     {"id":{"name":"O_Camera","path":"objects/O_Camera/O_Camera.yy",},},
     {"id":{"name":"O_ChangeRoomGoToCave","path":"objects/O_ChangeRoomGoToCave/O_ChangeRoomGoToCave.yy",},},
     {"id":{"name":"O_ChangeRoomGoToHouse","path":"objects/O_ChangeRoomGoToHouse/O_ChangeRoomGoToHouse.yy",},},
