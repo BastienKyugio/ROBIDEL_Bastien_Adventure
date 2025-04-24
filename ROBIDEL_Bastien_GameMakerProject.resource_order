@@ -38,6 +38,8 @@
     {"name":"S_IronOre","order":1,"path":"sprites/S_IronOre/S_IronOre.yy",},
     {"name":"S_Merchant","order":2,"path":"sprites/S_Merchant/S_Merchant.yy",},
     {"name":"S_PlayerIdle","order":4,"path":"sprites/S_PlayerIdle/S_PlayerIdle.yy",},
+    {"name":"S_PlayerMineBehind","order":11,"path":"sprites/S_PlayerMineBehind/S_PlayerMineBehind.yy",},
+    {"name":"S_PlayerMineFront","order":10,"path":"sprites/S_PlayerMineFront/S_PlayerMineFront.yy",},
     {"name":"S_PlayerRunBehind","order":5,"path":"sprites/S_PlayerRunBehind/S_PlayerRunBehind.yy",},
     {"name":"S_PlayerRunFront","order":6,"path":"sprites/S_PlayerRunFront/S_PlayerRunFront.yy",},
     {"name":"S_PlayerRunLeft","order":7,"path":"sprites/S_PlayerRunLeft/S_PlayerRunLeft.yy",},

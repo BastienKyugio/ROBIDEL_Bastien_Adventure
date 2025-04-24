@@ -30,13 +30,13 @@ if (place_meeting(x, y + vspd, O_Wall))
 	vspd = 0;
 }
 
-if (vspd == 0 and hspd == 0)
+if (vspd == 0 and hspd == 0 and global.isMining == false)
 {
 	sprite_index = S_PlayerIdle;
 }
 else
 {
-	if (vspd == 0 and hspd !=0)
+	if (vspd == 0 and hspd !=0 and global.isMining == false)
 	{
 		if (hspd < 0)
 		{
@@ -47,19 +47,15 @@ else
 			sprite_index = S_PlayerRunRight;
 		}
 	}
-	else if (vspd != 0)
+	else if (vspd != 0 )
 	{
-		show_debug_message("ddddddddddddd")
-		show_debug_message("")
-		if (vspd < 0)
+		if (vspd < 0 and global.isMining == false)
 		{
 			sprite_index = S_PlayerRunFront;
 		}
-		else if (vspd > 0)
+		else if (vspd > 0 and global.isMining == false)
 		{
-			show_debug_message("dgbtrtg")
 			sprite_index = S_PlayerRunBehind;
 		}
 	}
 }
-//

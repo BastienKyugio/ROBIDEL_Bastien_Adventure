@@ -61,6 +61,8 @@
     {"id":{"name":"S_MainCharacter","path":"sprites/S_MainCharacter/S_MainCharacter.yy",},},
     {"id":{"name":"S_Merchant","path":"sprites/S_Merchant/S_Merchant.yy",},},
     {"id":{"name":"S_PlayerIdle","path":"sprites/S_PlayerIdle/S_PlayerIdle.yy",},},
+    {"id":{"name":"S_PlayerMineBehind","path":"sprites/S_PlayerMineBehind/S_PlayerMineBehind.yy",},},
+    {"id":{"name":"S_PlayerMineFront","path":"sprites/S_PlayerMineFront/S_PlayerMineFront.yy",},},
     {"id":{"name":"S_PlayerRunBehind","path":"sprites/S_PlayerRunBehind/S_PlayerRunBehind.yy",},},
     {"id":{"name":"S_PlayerRunFront","path":"sprites/S_PlayerRunFront/S_PlayerRunFront.yy",},},
     {"id":{"name":"S_PlayerRunLeft","path":"sprites/S_PlayerRunLeft/S_PlayerRunLeft.yy",},},

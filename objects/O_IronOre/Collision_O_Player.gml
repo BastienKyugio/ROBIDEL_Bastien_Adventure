@@ -1,5 +1,21 @@
 if mouse_check_button(mb_left)
 {
-	global.ore ++;
-	instance_destroy()
+	if (y < O_Player.y and O_Player.x <= x + 5 or O_Player.x >= x - 5)
+	{
+		global.isMining = true;
+		O_Player.sprite_index = S_PlayerMineFront;
+		global.ore ++;
+		global.isMining = false;
+		instance_destroy()
+
+	}
+	else if ( y > O_Player.y and O_Player.x <= x + 5 or O_Player.x >= x - 5)
+	{
+		global.isMining= true;
+		O_Player.sprite_index = S_PlayerMineBehind;
+		global.ore ++;
+		global.isMining = false;
+		instance_destroy()
+	}
+	
 }
