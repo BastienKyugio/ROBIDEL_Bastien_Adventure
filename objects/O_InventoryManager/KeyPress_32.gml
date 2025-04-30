@@ -1,1 +1,0 @@
-global.showInventory = !global.showInventory;
