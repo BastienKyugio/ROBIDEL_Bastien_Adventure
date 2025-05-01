@@ -44,6 +44,7 @@
     {"name":"ScreenShake","order":3,"path":"scripts/ScreenShake/ScreenShake.yy",},
     {"name":"SlideTransition","order":4,"path":"scripts/SlideTransition/SlideTransition.yy",},
     {"name":"S_GoldOre","order":15,"path":"sprites/S_GoldOre/S_GoldOre.yy",},
+    {"name":"S_healthPotion","order":20,"path":"sprites/S_healthPotion/S_healthPotion.yy",},
     {"name":"S_Inventory","order":19,"path":"sprites/S_Inventory/S_Inventory.yy",},
     {"name":"S_IronOre","order":1,"path":"sprites/S_IronOre/S_IronOre.yy",},
     {"name":"S_Items","order":14,"path":"sprites/S_Items/S_Items.yy",},
