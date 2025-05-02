@@ -1,3 +1,6 @@
+if (global.shop) exist;
+
+
 press_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 press_left = keyboard_check(vk_left) || keyboard_check(ord("Q"));
 press_up =  keyboard_check(vk_up) || keyboard_check(ord("Z"));

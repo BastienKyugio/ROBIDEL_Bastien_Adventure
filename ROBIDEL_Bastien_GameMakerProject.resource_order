@@ -31,6 +31,7 @@
     {"name":"O_LapisOre","order":13,"path":"objects/O_LapisOre/O_LapisOre.yy",},
     {"name":"O_Menu","order":6,"path":"objects/O_Menu/O_Menu.yy",},
     {"name":"O_RubyOre","order":14,"path":"objects/O_RubyOre/O_RubyOre.yy",},
+    {"name":"O_shop","order":19,"path":"objects/O_shop/O_shop.yy",},
     {"name":"O_Sign","order":8,"path":"objects/O_Sign/O_Sign.yy",},
     {"name":"O_Texte","order":7,"path":"objects/O_Texte/O_Texte.yy",},
     {"name":"O_Transition","order":3,"path":"objects/O_Transition/O_Transition.yy",},

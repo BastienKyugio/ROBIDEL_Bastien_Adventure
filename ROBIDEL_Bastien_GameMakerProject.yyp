@@ -51,6 +51,7 @@
     {"id":{"name":"O_Menu","path":"objects/O_Menu/O_Menu.yy",},},
     {"id":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},},
     {"id":{"name":"O_RubyOre","path":"objects/O_RubyOre/O_RubyOre.yy",},},
+    {"id":{"name":"O_shop","path":"objects/O_shop/O_shop.yy",},},
     {"id":{"name":"O_Sign","path":"objects/O_Sign/O_Sign.yy",},},
     {"id":{"name":"O_Texte","path":"objects/O_Texte/O_Texte.yy",},},
     {"id":{"name":"O_Transition","path":"objects/O_Transition/O_Transition.yy",},},
