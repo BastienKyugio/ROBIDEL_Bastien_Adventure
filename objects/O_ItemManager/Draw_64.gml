@@ -11,7 +11,7 @@ for (var i = 0; i < array_length(inv); i++)
 	draw_sprite(inv[i].sprite, 0,_xx, _yy + _sep * i );
 	
 	if selected_item  == i { _col = c_yellow;};
-	draw_text(_xx + 16, _yy + _sep*i, inv[i].name);
+	draw_text(_xx + 50, _yy + _sep*i, inv[i].name);
 	
 	
 	if selected_item == i

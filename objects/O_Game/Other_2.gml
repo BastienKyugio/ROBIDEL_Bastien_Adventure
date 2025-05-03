@@ -1,2 +1,1 @@
-global.gold = 0;
-global.ore = 0;
+global.gold = 100;
