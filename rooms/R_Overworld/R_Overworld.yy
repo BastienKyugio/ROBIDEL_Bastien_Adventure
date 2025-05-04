@@ -23,6 +23,9 @@
 =======
     {"name":"inst_6810ED7E","path":"rooms/R_Overworld/R_Overworld.yy",},
     {"name":"inst_6565A305","path":"rooms/R_Overworld/R_Overworld.yy",},
+<<<<<<< HEAD
+>>>>>>> parent of 561384d (ajout de la boutique)
+=======
 >>>>>>> parent of 561384d (ajout de la boutique)
   ],
   "isDnd":false,
@@ -48,6 +51,9 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_WarpTO","path":"objects/O_WarpTO/O_WarpTO.yy",},"propertyId":{"name":"yPosition","path":"objects/O_WarpTO/O_WarpTO.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"704",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_WarpTO","path":"objects/O_WarpTO/O_WarpTO.yy",},"propertyId":{"name":"roomName","path":"objects/O_WarpTO/O_WarpTO.yy",},"resource":{"name":"R_Cave","path":"rooms/R_Cave/R_Cave.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"R_Cave",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.375,"scaleY":-0.42636108,"x":747.0,"y":335.7129,},
+<<<<<<< HEAD
+>>>>>>> parent of 561384d (ajout de la boutique)
+=======
 >>>>>>> parent of 561384d (ajout de la boutique)
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
