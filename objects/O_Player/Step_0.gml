@@ -1,4 +1,4 @@
-if (global.shop) exit;
+if (global.shop) exist;
 
 
 press_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
