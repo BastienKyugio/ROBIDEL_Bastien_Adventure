@@ -20,7 +20,7 @@ if (mode != TRANS_MODE.OFF)
 			case TRANS_MODE.NEXT:
 			{
 				mode = TRANS_MODE.INTRO;
-				room_goto(target);
+				room_goto(R_Overworld);
 				break;
 			}
 			case TRANS_MODE.GOTO:

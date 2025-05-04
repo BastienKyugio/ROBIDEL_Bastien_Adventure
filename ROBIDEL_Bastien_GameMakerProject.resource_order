@@ -69,7 +69,6 @@
     {"name":"S_SpriteSheet","order":3,"path":"sprites/S_SpriteSheet/S_SpriteSheet.yy",},
     {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite19","order":18,"path":"sprites/Sprite19/Sprite19.yy",},
-    {"name":"Sprite21","order":16,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"Sprite27","order":25,"path":"sprites/Sprite27/Sprite27.yy",},
   ],
 }
