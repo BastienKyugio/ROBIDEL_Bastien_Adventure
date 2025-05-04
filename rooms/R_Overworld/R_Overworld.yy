@@ -15,8 +15,6 @@
     {"name":"inst_617E92CF","path":"rooms/R_Overworld/R_Overworld.yy",},
     {"name":"inst_2D6DD4E2","path":"rooms/R_Overworld/R_Overworld.yy",},
     {"name":"inst_5D75E3A5","path":"rooms/R_Overworld/R_Overworld.yy",},
-<<<<<<< HEAD
-<<<<<<< HEAD
     {"name":"inst_4F0038C8","path":"rooms/R_Overworld/R_Overworld.yy",},
 =======
 >>>>>>> parent of 536b875 (ajout de la boutique)
