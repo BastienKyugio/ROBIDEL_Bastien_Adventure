@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_IronOre",
-    "path":"sprites/S_IronOre/S_IronOre.yy",
+    "name":"S_ItemIron",
+    "path":"sprites/S_ItemIron/S_ItemIron.yy",
   },
   "spriteMaskId":null,
   "visible":true,

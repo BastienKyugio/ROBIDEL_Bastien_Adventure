@@ -40,3 +40,4 @@ if (menu_x > gui_width+150) && (menu_committed != -1)
 		case 0: game_end(); break;
 	}
 }
+show_debug_message(room_get_name(room));

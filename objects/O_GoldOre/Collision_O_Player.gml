@@ -4,7 +4,6 @@ if mouse_check_button(mb_left)
 	{
 		global.isMining = true;
 		O_Player.sprite_index = S_PlayerMineFront;
-		global.ore ++;
 		global.isMining = false;
 		instance_destroy()
 
@@ -13,7 +12,6 @@ if mouse_check_button(mb_left)
 	{
 		global.isMining= true;
 		O_Player.sprite_index = S_PlayerMineBehind;
-		global.ore ++;
 		global.isMining = false;
 		instance_destroy()
 	}

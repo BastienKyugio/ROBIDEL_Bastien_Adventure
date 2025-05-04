@@ -13,27 +13,27 @@ if (mode != TRANS_MODE.OFF)
 		switch (mode)
 		{
 			case TRANS_MODE.INTRO:
-			{
+			
 				mode = TRANS_MODE.OFF;
 				break;
-			}
+			
 			case TRANS_MODE.NEXT:
-			{
+			
 				mode = TRANS_MODE.INTRO;
 				room_goto_next();
 				break;
-			}
+			
 			case TRANS_MODE.GOTO:
-			{
+			
 				mode = TRANS_MODE.INTRO;
 				room_goto(target);
 				break;
-			}
+			
 			case TRANS_MODE.RESTART:
-			{
+			
 				game.restart();
 				break;
-			}
+			
 		}
 	}
 }
