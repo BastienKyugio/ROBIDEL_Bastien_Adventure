@@ -36,6 +36,7 @@
     {"name":"O_Texte","order":7,"path":"objects/O_Texte/O_Texte.yy",},
     {"name":"O_Transition","order":3,"path":"objects/O_Transition/O_Transition.yy",},
     {"name":"O_Wall","order":2,"path":"objects/O_Wall/O_Wall.yy",},
+    {"name":"O_WarpTO","order":20,"path":"objects/O_WarpTO/O_WarpTO.yy",},
     {"name":"R_Cave","order":2,"path":"rooms/R_Cave/R_Cave.yy",},
     {"name":"R_House","order":1,"path":"rooms/R_House/R_House.yy",},
     {"name":"R_MainMenu","order":3,"path":"rooms/R_MainMenu/R_MainMenu.yy",},
@@ -68,6 +69,6 @@
     {"name":"S_SpriteSheet","order":3,"path":"sprites/S_SpriteSheet/S_SpriteSheet.yy",},
     {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite19","order":18,"path":"sprites/Sprite19/Sprite19.yy",},
-    {"name":"Sprite21","order":16,"path":"sprites/Sprite21/Sprite21.yy",},
+    {"name":"Sprite27","order":25,"path":"sprites/Sprite27/Sprite27.yy",},
   ],
 }
