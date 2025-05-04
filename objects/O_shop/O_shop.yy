@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Merchant",
+    "path":"sprites/S_Merchant/S_Merchant.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
