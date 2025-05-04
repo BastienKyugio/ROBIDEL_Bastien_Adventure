@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_ChangeRoomGoToOverworld",
+  "%Name":"O_wall3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_ChangeRoomGoToOverworld",
+  "name":"O_wall3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Sprite10",
-    "path":"sprites/Sprite10/Sprite10.yy",
+    "name":"Wall1",
+    "path":"sprites/Wall1/Wall1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

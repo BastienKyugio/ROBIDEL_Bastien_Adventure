@@ -1,4 +1,4 @@
-if mouse_check_button(mb_left) && ds_list_size(global.inv) > 2
+if mouse_check_button(mb_left) && ds_list_size(global.inv) > 0
 {
 	if (y < O_Player.y and O_Player.x <= x + 5 or O_Player.x >= x - 5)
 	{

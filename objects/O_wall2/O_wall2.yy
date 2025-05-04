@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_Wall",
-  "eventList":[],
+  "%Name":"O_wall2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_Wall",
+  "name":"O_wall2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite27",
-    "path":"sprites/Sprite27/Sprite27.yy",
+    "name":"Wall1_1",
+    "path":"sprites/Wall1_1/Wall1_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

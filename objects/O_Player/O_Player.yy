@@ -32,7 +32,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"S_MainCharacter",
     "path":"sprites/S_MainCharacter/S_MainCharacter.yy",
